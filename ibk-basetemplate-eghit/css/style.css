@@ -148,7 +148,7 @@ h1.logo img {
   padding: 50px;
   box-sizing: border-box;
   margin: 0 14px;
-  gap: 25px;
+  gap: 13px;
 }
 
 .cont_tit {
@@ -167,9 +167,9 @@ h1.logo img {
 .table_wrap .table_tr {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  gap: 6px;
+  gap: 3px;
   height: 100%;
-  margin-bottom: 6px;
+  margin-bottom: 3px;
   box-sizing: border-box;
 }
 .table_wrap .table_tr:nth-child(3) {
@@ -187,7 +187,7 @@ h1.logo img {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 55px;
+  height: 59px;
   gap: 18px;
   overflow: hidden;
 }
@@ -237,7 +237,7 @@ h1.logo img {
   gap: 12px;
 }
 .lth_th_wrap {
-  gap: 6px;
+  gap: 3px;
 }
 
 .table_wrap .lth_name {
@@ -286,6 +286,7 @@ h1.logo img {
   justify-content: end;
   font-size: 42px;
   color: #3a3a3a;
+  width: 160px;
 }
 .td_box .number .number-list {
   width: 24px;
@@ -386,7 +387,7 @@ h1.logo img {
 }
 .grid_wrap {
   grid-template-columns: repeat(2, 1fr);
-  gap: 6px;
+  gap: 3px;
   box-sizing: border-box;
 }
 .grid_wrap div {

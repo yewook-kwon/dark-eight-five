@@ -159,14 +159,13 @@ h1.logo img {
   display: flex;
 }
 
-.table_wrap {
-}
+
 .table_wrap .table_tr {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  gap: 6px;
+  gap: 3px;
   height: 127px;
-  margin-bottom: 6px;
+  margin-bottom: 3px;
   box-sizing: border-box;
 }
 
@@ -230,7 +229,7 @@ h1.logo img {
   gap: 12px;
 }
 .lth_th_wrap {
-  gap: 6px;
+  gap: 3px;
 }
 
 .table_wrap .lth_name {
@@ -266,9 +265,7 @@ h1.logo img {
   background: #fbfbfb;
   border: 1px solid #ddd;
 }
-.td_box .number.sell {
-  
-}
+
 .td_box .number .number-list.point {
   width: auto !important;
 }
@@ -280,7 +277,7 @@ h1.logo img {
   justify-content: end;
   font-size: 56px;
   color: #3a3a3a;
-  width: 220px;
+  width: 200px;
 }
 .td_box .number .number-list {
   width: 32px;text-align: center;
@@ -392,7 +389,7 @@ h1.logo img {
 }
 .grid_wrap {
   grid-template-columns: repeat(2, 1fr);
-  gap: 6px;
+  gap: 3px;
   box-sizing: border-box;
   width: 354px;
 }

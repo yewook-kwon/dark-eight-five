@@ -83,7 +83,7 @@ h1.logo img {
 }
 
 .header_right .time_box .clock span {
-  color: #bec3d9;
+  color: #a7acbc;
   font-size: 44px;
   font-weight: 600;
 }
@@ -147,7 +147,7 @@ h1.logo img {
   padding: 50px;
   box-sizing: border-box;
   margin: 0 14px;
-  gap: 25px;
+  gap: 13px;
 }
 
 .cont_dark {
@@ -275,8 +275,8 @@ h1.logo img {
   gap: 6px;
   background: #001329;
 }
-.td_box .number.sell {
-}
+
+
 .td_box .number .number-list.point {
   width: auto !important;
 }
@@ -287,6 +287,7 @@ h1.logo img {
   display: flex;
   justify-content: end;
   font-size: 42px;
+  width: 180px;
 }
 .td_box .number .number-list {
   width: 24px;
@@ -327,7 +328,6 @@ h1.logo img {
 }
 .ani_box {
   overflow: hidden;
-
   justify-content: center;
 }
 
@@ -444,7 +444,7 @@ h1.logo img {
 }
 .f_wrap {
   display: flex;
-  background: #000c2b;
+  background: #00040e;
   color: #fff;
   font-size: 36px;
   align-items: center;
@@ -606,7 +606,7 @@ h1.logo img {
   will-change: transform;
   display: flex;
   align-items: center;
-  color: #fff;
+  color: #7e95a9;
 }
 @keyframes textLoop {
   0% {
